@@ -10,8 +10,8 @@
 </a> </p>
 
 ## 🙋‍♂️ About Me
-<br/>
-- 🔭 I’m currently working on **Flipkart Clone**
+
+- 🔭 I’m currently working on **[Kohl's Clone](https://kohls-onlineshopping.netlify.app/)**
 
 - 🌱 I’m currently learning **React.js**
 
