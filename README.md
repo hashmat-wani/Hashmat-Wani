@@ -1,9 +1,4 @@
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashmat-noorani&" alt="hashmat-noorani" /></p> -->
-
-
-
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hashmat Noorani</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
@@ -17,7 +12,7 @@
 
 
 ## 🙋‍♂️ About Me
-
+<img align=right height="220" width="370" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU">
 
 - 🔭 I’m currently working on **[Amazon Clone](https://github.com/Hashmat-Noorani/Amazon-clone)**
 
@@ -28,7 +23,6 @@
 - 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/hashmat-noorani/)**
 
 - ⚡ Fun fact **I enjoy solving Problems.**
-
 </br>
 
 ## 🚀 Languages and Tools
