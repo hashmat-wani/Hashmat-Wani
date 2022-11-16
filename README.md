@@ -41,9 +41,10 @@
 
 ## 📊 My Github Stats
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hashmat-noorani&show_icons=true&hide_border=true" alt="hashmat-noorani" /></p>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashmat-noorani&hide_border=true" alt="hashmat-noorani" />
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hashmat-noorani&show_icons=true&hide_border=true" alt="hashmat-noorani" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hashmat-noorani&hide_border=true" alt="hashmat-noorani" />
+</p>
 
 
 
