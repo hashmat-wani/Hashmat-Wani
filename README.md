@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hashmat Noorani</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
@@ -35,10 +34,10 @@
 
 ## 📊 My Github Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hashmat-noorani&show_icons=true&hide_border=true" alt="hashmat-noorani" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hashmat-noorani&hide_border=true" alt="hashmat-noorani" />
-</p>
+<div align="center" style="display: flex; flex-wrap: nowrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hashmat-noorani&show_icons=true&hide_border=true" alt="hashmat-noorani" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashmat-noorani&hide_border=true" alt="hashmat-noorani" />
+</div>
 
 
 
