@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hashmat Noorani</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">Full Stack Web Developer - MERN</h3>
 
-<p align="center"> <a href="https://twitter.com/hashmatwani_x" target="blank"><img src="https://img.shields.io/twitter/follow/hashmatwani_x?logo=twitter&style=for-the-badge" alt="hashmatwani_x" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/hashmatwani_x" target="blank"><img src="https://img.shields.io/twitter/follow/hashmatwani_x?logo=twitter&style=for-the-badge" alt="hashmatwani_x" /></a> </p> -->
 
 <p align="center"> <a href="https://github.com/Hashmat-Noorani/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Hashmat-Noorani">
@@ -33,7 +33,6 @@
 </br>
 
 ## 📊 My Github Stats
-
 <div align="center" style="display: flex; flex-wrap: nowrap;">
     <img width="420" src="https://github-readme-stats.vercel.app/api?username=hashmat-noorani&show_icons=true&hide_border=true" alt="hashmat-noorani" />
     <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=hashmat-noorani&hide_border=true" alt="hashmat-noorani" />
