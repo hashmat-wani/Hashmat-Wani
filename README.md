@@ -39,7 +39,7 @@
 ## 📊 Github Stats
 <div align="center" style="display: flex; flex-wrap: nowrap;">
     <img width="420" src="https://github-readme-stats.vercel.app/api?username=hashmat-noorani&show_icons=true&hide_border=true" alt="hashmat-noorani" />
-    <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=hashmat-noorani&hide_border=true" alt="hashmat-nooran" />
+    <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=hashmat-nooran&hide_border=true" alt="hashmat-noorani" />
 </div>
 
 
