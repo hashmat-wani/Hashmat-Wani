@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **[Amazon Clone](https://github.com/Hashmat-Noorani/Amazon-clone)**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Hashmat-Noorani)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://hashmat-noorani.github.io/)**
 
 - 📫 How to reach me **hashmatwani@icloud.com**
 
