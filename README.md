@@ -1,4 +1,8 @@
 
+
+<img align="center" width="100%" src="./social-banner.jpg"/>
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hashmat Noorani</h1>
 
 <p align="center">
