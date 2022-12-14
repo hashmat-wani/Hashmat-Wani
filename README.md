@@ -3,11 +3,7 @@
 <img align="center" width="100%" src="./social-banner.jpg"/>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hashmat Noorani</h1>
 
-<p align="center">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&vCenter=true&center=true&width=470&lines=Full+Stack+Web+Developer+-+MERN;JavaScript+Enthusiast"/>
-</p>
 <p style='text-align: justify;'> A self-taught passionate Full Stack web developer developer from India, who cares about the code and the people, currently working at Masai School as an Instructional Associate. I'm capable of writing production-ready code using React.js, Redux.js, and CSS on the Front-end, and Node.js and Express.js on the Backend to build single-page applications</p>
     
 <!-- <p align="center"> <a href="https://twitter.com/hashmatwani_x" target="blank"><img src="https://img.shields.io/twitter/follow/hashmatwani_x?logo=twitter&style=for-the-badge" alt="hashmatwani_x" /></a> </p> -->
