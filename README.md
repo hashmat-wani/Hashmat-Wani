@@ -19,7 +19,7 @@
 ## 🙋‍♂️ About Me
 <img align=right height="220" width="370" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU">
 
-- 🔭 I’m currently working on **[Amazon Clone](https://github.com/Hashmat-Noorani/Amazon-clone)**
+- 🔭 I’m currently working on **[AI Image Generator](https://github.com/hashmat-noorani/AI-Image-Generator-DALL.E)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://hashmat-noorani.github.io/)**
 
