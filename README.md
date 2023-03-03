@@ -6,7 +6,7 @@
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&vCenter=true&center=true&width=470&lines=Full+Stack+Web+Developer+-+MERN;JavaScript+Enthusiast"/>
 </p> -->
 
-<p style='text-align: justify;'> A self-taught passionate Full Stack web developer, who cares about the code and the people, currently working at Masai School as an Instructional Associate. I'm capable of writing production-ready code using React.js, Redux.js, and CSS on the Front-end, and Node.js and Express.js on the Backend to build single-page applications</p>
+<p style='text-align: justify;'>A self-taught Full Stack web developer with a passion for writing clean and efficient code. With 1-year of experience in building single-page applications using the MERN Stack, I have developed a skill set in creating reusable components and optimizing React application performance. Additionally, I am proficient in integrating APIs into React applications using Axios and Fetch and utilizing various React tools and libraries such as Redux, React Router, and Material UI. As someone who is passionate about coding, I am always seeking ways to improve my skills and apply them to real-world projects. I am currently seeking a challenging role in a product-based company to further enhance my technical knowledge.</p>
     
 <!-- <p align="center"> <a href="https://twitter.com/hashmatwani_x" target="blank"><img src="https://img.shields.io/twitter/follow/hashmatwani_x?logo=twitter&style=for-the-badge" alt="hashmatwani_x" /></a> </p> -->
 
