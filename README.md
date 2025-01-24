@@ -6,7 +6,7 @@
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&vCenter=true&center=true&width=470&lines=Full+Stack+Web+Developer+-+MERN;JavaScript+Enthusiast"/>
 </p> -->
 
-<p style='text-align: justify;'>Hello, I'm Hashmat Wani, a Software Engineer-II Frontend at <a href="https://attentive.ai/" target="_blank">Attentive.ai</a>. I specialize in scalable front-end solutions, performance optimization, and enhancing user experiences.</p>
+<p style='text-align: justify;'>Hello, I'm Hashmat Wani, a Software Engineer II Frontend at <a href="https://attentive.ai/" target="_blank">Attentive.ai</a>. I specialize in scalable front-end solutions, performance optimization, and enhancing user experiences.</p>
     
 <!-- <p align="center"> <a href="https://twitter.com/hashmatwani_x" target="blank"><img src="https://img.shields.io/twitter/follow/hashmatwani_x?logo=twitter&style=for-the-badge" alt="hashmatwani_x" /></a> </p> -->
 
