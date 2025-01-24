@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="./social-banner.jpg"/>
+<!-- <img align="center" width="100%" src="./social-banner.jpg"/>
 
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hashmat Noorani</h1>
 
@@ -6,7 +6,7 @@
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&vCenter=true&center=true&width=470&lines=Full+Stack+Web+Developer+-+MERN;JavaScript+Enthusiast"/>
 </p> -->
 
-<p style='text-align: justify;'>Hello, I'm Hashmat Wani, a dedicated Full Stack web developer currently serving as an SDE-I Frontend professional at <a href="https://attentive.ai/" target="_blank"> Attentive.ai</a>. I have developed a skill set in creating reusable components and optimizing React application performance. Additionally, I am proficient in integrating APIs into React applications using Axios and Fetch and utilizing various React tools and libraries such as Redux, React Router, and Material UI. As someone who is passionate about coding, I am always seeking ways to improve my skills and apply them to real-world projects.</p>
+<p style='text-align: justify;'>Hello, I'm Hashmat Wani, a Software Engineer-II Frontend at <a href="https://attentive.ai/" target="_blank">Attentive.ai</a>. I specialize in scalable front-end solutions, performance optimization, and enhancing user experiences.</p>
     
 <!-- <p align="center"> <a href="https://twitter.com/hashmatwani_x" target="blank"><img src="https://img.shields.io/twitter/follow/hashmatwani_x?logo=twitter&style=for-the-badge" alt="hashmatwani_x" /></a> </p> -->
 
